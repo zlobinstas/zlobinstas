@@ -14,7 +14,17 @@
 
 👯 I want to be a part of the creativity that addresses numerous daily challenges, paying attention to every detail.
 
-My [CV](https://drive.google.com/file/d/1qcmUn3nQcInosDbaFyLgCUyvPBmdSjKS/view?usp=share_link)
+My [CV](https://drive.google.com/file/d/1DMY6f79hbapgxYmO2fRkfCu-5tMRI4dk/view?usp=sharing)
+
+---
+
+### My projects
+
+1. [Nonogram game](https://rolling-scopes-school.github.io/zlobinstas-JSFE2023Q4/nonograms/)
+2. [Coffee shop](https://rolling-scopes-school.github.io/zlobinstas-JSFE2023Q4/coffee-house/)
+3. [Photo-filter](https://rolling-scopes-school.github.io/zlobinstas-JSFE2021Q1/stage1-tasks-photo-filter/photo-filter/)
+4. [Online-piano](https://rolling-scopes-school.github.io/zlobinstas-JSFE2021Q1/virtual-piano/)
+5. [Online-zoo](https://rolling-scopes-school.github.io/zlobinstas-JSFE2021Q1/online-zoo/pages/landing/index.html#)
 
 ---
 
